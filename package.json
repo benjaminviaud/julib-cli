@@ -1,0 +1,15 @@
+{
+  "name": "julib-cli",
+  "version": "0.0.0",
+  "description": "Julib CLI for creating custom builds",
+  "main": "bin/julib",
+  "bin": {
+    "julib": "bin/julib.js"
+  },
+  "repository": "https://github.com/benjaminviaud/julib-cli",
+  "author": "benjaminviaud",
+  "license": "MIT",
+  "dependencies": {
+    "minimist": "^1.2.0"
+  }
+}
